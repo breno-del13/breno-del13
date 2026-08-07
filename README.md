@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Breno🌌
 
-<img src="https://media.tenor.com/SEU-GIF.gif" width="600"/>
+<img src="assets/blackhole.gif" width="700">
 
 </div>
 
