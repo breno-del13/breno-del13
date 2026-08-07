@@ -6,6 +6,8 @@
 
 * **C++** *(Intermediário)*
 * **Python** *(Intermediário)*
+* **Lógica de Programação** 
+
 
 ## 🎮 Projetos
 
