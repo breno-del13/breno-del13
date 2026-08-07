@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Breno, sou fã da programação e adoro ciencia em geral!
 
-<!--
-**breno-del13/breno-del13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em **C++**, **Game Development** e **Software Engineering**.
 
-Here are some ideas to get you started:
+## 🚀 Experiência
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **C++** *(Intermediário)*
+* **Python** *(Intermediário)*
+
+## 🎮 Projetos
+
+🌌 **Black Hole 2D** *(em desenvolvimento)*
+
+**Link:** *(Em breve)*
+
+## 📫 Contato
+
+* GitHub: https://github.com/breno-del13
