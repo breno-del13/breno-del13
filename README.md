@@ -1,6 +1,12 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Breno, sou fã da programação e adoro ciencia em geral!🧑‍💻🌌
+<div align="center">
+
+# 👋 Olá, eu sou o Breno🌌
+
+<img src="https://media.tenor.com/SEU-GIF.gif" width="600"/>
+
+</div>
 
 Sou apaixonado por **programação** e adoro **ciência** em geral.
 
