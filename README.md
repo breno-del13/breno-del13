@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Breno🌌
 
-<img src="assets/blackholeg" width="700">
+<img src="assets/blackholeg.gif" width="700">
 
 </div>
 
