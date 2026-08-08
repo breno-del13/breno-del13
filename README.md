@@ -17,8 +17,8 @@ Sou apaixonado por **programação** e adoro **ciência** em geral.
 </p>
 
 <p>
-  <strong>C++</strong> *(Intermediário)* &nbsp;&nbsp;&nbsp;
-  <strong>Python</strong> *(Intermediário)* &nbsp;&nbsp;&nbsp;
+  <strong>C++ (Intermediário)</strong> &nbsp;&nbsp;&nbsp;
+  <strong>Python (Intermediário)</strong> &nbsp;&nbsp;&nbsp;
   <strong>Lógica de Programação</strong>
 </p>
 
