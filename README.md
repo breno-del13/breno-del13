@@ -1,12 +1,4 @@
-<div align="center">
-
-<div align="center">
-
-# 👋 Olá, eu sou o Breno🌌
-
-<img src="assets/blackholeg.gif" width="700">
-
-</div>
+# 👋 Olá, eu sou o Breno 🌌
 
 Sou apaixonado por **programação** e adoro **ciência** em geral.
 
@@ -14,9 +6,21 @@ Sou apaixonado por **programação** e adoro **ciência** em geral.
 
 ## 🚀 Experiência
 
-• **C++** *(Intermediário)*
-• **Python** *(Intermediário)*
-• **Lógica de Programação**
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+&nbsp;&nbsp;&nbsp;
+💻
+&nbsp;&nbsp;&nbsp;
+☕
+
+<br>
+
+**C++** *(Intermediário)*  **Python** *(Intermediário)*  **Lógica de Programação**  **Café** ☕
+
+</div>
 
 ## 🎮 Projetos
 
@@ -28,4 +32,3 @@ Sou apaixonado por **programação** e adoro **ciência** em geral.
 
 GitHub: https://github.com/breno-del13
 
-</div>
