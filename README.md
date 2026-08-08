@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=breno-del13&label=Visitas&color=blue&style=flat" alt="Contador de visitas"/>
+</p>
+
 # 👋 Olá, eu sou o Breno 🌌
 
 Sou apaixonado por **programação** e adoro **ciência** em geral.
